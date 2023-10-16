@@ -36,7 +36,13 @@ p, h4, h3, h1, h2 {
     color: #fff;
     font-size: 20px;
 }
-
+.searcharea i{
+    font-size: 20px;
+}
+.searcharea input::placeholder{
+    color: #fff;
+    font-weight: 300;
+}
 
 .login{
     font-size: 25px;
